@@ -1,0 +1,23 @@
+# Environment Variables (SANGAT PENTING: Jangan unggah API Key!)
+.env
+.env.local
+
+# Python / Backend
+__pycache__/
+venv/
+env/
+*.pyc
+temp_slither_*.json
+
+# Node.js / Frontend
+node_modules/
+.next/
+out/
+build/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Mengabaikan file hasil unduhan otomatis Slither
+backend/crytic-export/
