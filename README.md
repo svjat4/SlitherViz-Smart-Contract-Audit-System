@@ -17,14 +17,12 @@ This project was developed as a part of a research study on Ethereum Smart Contr
 *(Replace the image paths below with your actual screenshot files in your repository)*
 
 ### Dashboard Overview
-![Dashboard Overview](<img width="1067" height="616" alt="Cuplikan layar 2026-07-22 231546" src="https://github.com/user-attachments/assets/58002a13-7389-4280-8956-d8909fe65ffe" />
-)
+![Dashboard Overview]<img width="1067" height="616" alt="Cuplikan layar 2026-07-22 231546" src="https://github.com/user-attachments/assets/f4aa07a8-53ad-44c8-aca7-1a2bbf4dd224" />
 *Quantitative metrics, severity distribution (Donut Chart), and the top 5 most common vulnerabilities.*
 <img width="753" height="678" alt="Cuplikan layar 2026-07-22 232526" src="https://github.com/user-attachments/assets/db7fee2e-c0f0-4beb-95ef-8fca35751d5a" />
 
 ### Audit Details & Vulnerability Mapping
-![Audit Results](<img width="525" height="787" alt="Cuplikan layar 2026-07-22 232608" src="https://github.com/user-attachments/assets/217168bf-738e-4a0b-9907-816b7275ebda" />
-)
+![Audit Results]<img width="525" height="787" alt="Cuplikan layar 2026-07-22 232608" src="https://github.com/user-attachments/assets/5af33941-bf65-43a2-a7b4-63a7ce53aea2" />
 *Deep dive into specific contract vulnerabilities, showing lines of code, severity levels, and specific attack vectors like `reentrancy-balance`.*
 
 ---
